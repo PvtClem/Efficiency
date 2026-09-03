@@ -1,0 +1,2637 @@
+[
+  {
+    "fixed": [
+      1,
+      7100,
+      14.0,
+      8.59,
+      84.64,
+      343.08,
+      -2627.51,
+      3311.54,
+      0.0,
+      0,
+      1778510804.3057995,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7101,
+      14.0,
+      8.61,
+      67.75,
+      299.3,
+      4895.8999,
+      993.23,
+      0.0,
+      0,
+      1778980804.9640265,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7102,
+      14.0,
+      8.38,
+      83.48,
+      164.47,
+      3510.97,
+      299.86,
+      0.0,
+      0,
+      1778529390.9442465,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7103,
+      14.0,
+      8.03,
+      84.91,
+      212.63,
+      5324.9399,
+      -7680.5698,
+      0.0,
+      0,
+      1779089706.2522452,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7104,
+      14.0,
+      8.2,
+      67.53,
+      113.74,
+      631.69,
+      -10460.1504,
+      0.0,
+      0,
+      1777925633.8547351,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7105,
+      14.0,
+      8.82,
+      71.66,
+      264.39,
+      2938.95,
+      -9956.8096,
+      0.0,
+      0,
+      1778689790.0849361,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7106,
+      14.0,
+      8.83,
+      65.41,
+      98.09,
+      4299.0898,
+      -3436.3899,
+      0.0,
+      0,
+      1778607413.1063216,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7107,
+      14.0,
+      8.65,
+      77.33,
+      256.37,
+      -2721.3999,
+      1197.86,
+      0.0,
+      0,
+      1778675677.1356921,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7108,
+      14.0,
+      8.28,
+      75.96,
+      28.11,
+      4667.27,
+      -9685.0195,
+      0.0,
+      0,
+      1777721687.4908094,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7109,
+      14.0,
+      8.03,
+      73.95,
+      78.59,
+      -4368.7202,
+      -10564.6201,
+      0.0,
+      0,
+      1778550681.8764265,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7110,
+      14.0,
+      8.56,
+      81.46,
+      223.79,
+      3016.3999,
+      -10156.29,
+      0.0,
+      0,
+      1777696844.6541905,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7111,
+      14.0,
+      8.38,
+      68.81,
+      269.91,
+      2346.3999,
+      -3664.96,
+      0.0,
+      0,
+      1778607531.0128572,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7112,
+      14.0,
+      8.21,
+      71.47,
+      269.63,
+      4097.25,
+      -10354.7402,
+      0.0,
+      0,
+      1778281911.1100528,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7113,
+      14.0,
+      8.31,
+      78.92,
+      79.18,
+      6200.6201,
+      -3576.1499,
+      0.0,
+      0,
+      1778397341.2643623,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7114,
+      14.0,
+      8.13,
+      81.79,
+      307.0,
+      -266.89,
+      243.02,
+      0.0,
+      0,
+      1777610565.914989,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7115,
+      14.0,
+      8.16,
+      67.52,
+      222.28,
+      4298.8799,
+      -2328.3101,
+      0.0,
+      0,
+      1778091720.9231422,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7116,
+      14.0,
+      8.09,
+      73.92,
+      305.82,
+      2055.6899,
+      4589.3301,
+      0.0,
+      0,
+      1778656973.3133552,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7117,
+      14.0,
+      8.01,
+      72.83,
+      103.99,
+      1667.09,
+      3622.21,
+      0.0,
+      0,
+      1777603640.1999676,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7118,
+      14.0,
+      8.32,
+      79.18,
+      48.3,
+      3753.5801,
+      -4344.4102,
+      0.0,
+      0,
+      1778619826.3849277,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7119,
+      14.0,
+      8.82,
+      72.67,
+      151.76,
+      875.5,
+      -2852.28,
+      0.0,
+      0,
+      1778389562.4164984,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7120,
+      14.0,
+      8.36,
+      85.84,
+      179.52,
+      3834.0801,
+      -228.01,
+      0.0,
+      0,
+      1778873429.5755045,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7121,
+      14.0,
+      8.33,
+      72.45,
+      170.02,
+      -3424.49,
+      -7289.75,
+      0.0,
+      0,
+      1778702047.0452933,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7122,
+      14.0,
+      8.02,
+      79.97,
+      326.96,
+      4967.1299,
+      -8532.9902,
+      0.0,
+      0,
+      1778065968.8920598,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7123,
+      14.0,
+      8.57,
+      76.78,
+      352.89,
+      -3882.7,
+      -1168.8101,
+      0.0,
+      1,
+      1778025237.5485458,
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_224803_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0022.root",
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_224803_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0022.root"
+    ],
+    "triggering_events": [
+      [
+        20,
+        "Y"
+      ],
+      [
+        28,
+        "Y"
+      ],
+      [
+        32,
+        "Y"
+      ],
+      [
+        40,
+        "Y"
+      ],
+      [
+        48,
+        "Y"
+      ],
+      [
+        52,
+        "Y"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [
+      [
+        28,
+        "Y"
+      ],
+      [
+        40,
+        "Y"
+      ],
+      [
+        48,
+        "Y"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      7124,
+      14.0,
+      8.4,
+      70.62,
+      23.46,
+      -2296.48,
+      3076.95,
+      0.0,
+      0,
+      1778046896.491997,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7125,
+      14.0,
+      8.65,
+      65.57,
+      83.36,
+      5174.0801,
+      -6283.0801,
+      0.0,
+      0,
+      1778977612.1193254,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7126,
+      14.0,
+      8.12,
+      75.88,
+      203.61,
+      3143.0901,
+      -762.5,
+      0.0,
+      0,
+      1777812535.0071676,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7127,
+      14.0,
+      8.01,
+      65.2,
+      27.39,
+      4126.3501,
+      -4091.99,
+      0.0,
+      0,
+      1778651009.0791423,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7128,
+      14.0,
+      8.49,
+      83.62,
+      344.65,
+      4091.53,
+      1649.6801,
+      0.0,
+      0,
+      1778565700.051206,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7129,
+      14.0,
+      8.44,
+      87.84,
+      228.69,
+      3913.9199,
+      4397.7998,
+      0.0,
+      0,
+      1778425070.4700537,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7130,
+      14.0,
+      8.07,
+      67.36,
+      242.71,
+      2751.0901,
+      1544.87,
+      0.0,
+      0,
+      1778011953.872198,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7131,
+      14.0,
+      8.59,
+      86.66,
+      299.63,
+      2311.8899,
+      -10677.2695,
+      0.0,
+      0,
+      1777939982.44373,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7132,
+      14.0,
+      8.7,
+      83.12,
+      195.91,
+      5037.1201,
+      -6107.3999,
+      0.0,
+      0,
+      1777850262.2209895,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7133,
+      14.0,
+      8.02,
+      86.63,
+      119.28,
+      5882.5698,
+      -7864.3701,
+      0.0,
+      0,
+      1779090633.116031,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7134,
+      14.0,
+      8.5,
+      79.76,
+      290.53,
+      -1980.6899,
+      -1900.38,
+      0.0,
+      1,
+      1778097200.0553803,
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_191453_RUN480_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1.0-chengwei-0004.root",
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_191453_RUN480_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1.0-chengwei-0004.root"
+    ],
+    "triggering_events": [
+      [
+        32,
+        "X"
+      ],
+      [
+        37,
+        "X"
+      ],
+      [
+        47,
+        "X"
+      ],
+      [
+        48,
+        "X"
+      ],
+      [
+        52,
+        "X"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [
+      [
+        37,
+        "X"
+      ],
+      [
+        48,
+        "X"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      7135,
+      14.0,
+      8.21,
+      75.42,
+      165.19,
+      -845.27,
+      -5836.1602,
+      0.0,
+      0,
+      1777852313.6515582,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7136,
+      14.0,
+      8.27,
+      78.9,
+      26.69,
+      -1475.0699,
+      -8206.3896,
+      0.0,
+      0,
+      1777739859.5058165,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7137,
+      14.0,
+      8.06,
+      82.86,
+      101.1,
+      -2111.8899,
+      1462.61,
+      0.0,
+      0,
+      1779007644.7975707,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7138,
+      14.0,
+      9.0,
+      80.11,
+      17.21,
+      -969.07,
+      -8797.7002,
+      0.0,
+      0,
+      1778752625.8154254,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7139,
+      14.0,
+      8.21,
+      82.58,
+      332.48,
+      4787.04,
+      -11009.9102,
+      0.0,
+      0,
+      1778430350.9264011,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7140,
+      14.0,
+      8.12,
+      76.83,
+      95.04,
+      1522.53,
+      180.6,
+      0.0,
+      0,
+      1777750581.0306475,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7141,
+      14.0,
+      8.82,
+      87.27,
+      68.78,
+      -1190.3199,
+      -1937.49,
+      0.0,
+      0,
+      1778382319.8879147,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7142,
+      14.0,
+      8.05,
+      80.09,
+      206.45,
+      -3685.8301,
+      -423.12,
+      0.0,
+      0,
+      1777781479.444375,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7143,
+      14.0,
+      8.85,
+      71.33,
+      7.79,
+      -872.13,
+      -2330.75,
+      0.0,
+      1,
+      1778674258.7693465,
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260513_120952_RUN485_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260513_120952_RUN485_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+    ],
+    "triggering_events": [
+      [
+        35,
+        "Y"
+      ],
+      [
+        40,
+        "Y"
+      ],
+      [
+        41,
+        "Y"
+      ],
+      [
+        44,
+        "Y"
+      ],
+      [
+        45,
+        "Y"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [
+      [
+        40,
+        "Y"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      7144,
+      14.0,
+      8.18,
+      66.18,
+      240.59,
+      3628.3701,
+      -5566.02,
+      0.0,
+      0,
+      1777737465.974874,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7145,
+      14.0,
+      8.2,
+      83.51,
+      36.85,
+      -2156.98,
+      -8051.9502,
+      0.0,
+      0,
+      1778210886.9663117,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7146,
+      14.0,
+      8.99,
+      72.38,
+      307.66,
+      2424.2,
+      3498.6599,
+      0.0,
+      0,
+      1778664249.8273585,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7147,
+      14.0,
+      8.2,
+      85.03,
+      115.45,
+      3582.3,
+      -7617.3599,
+      0.0,
+      0,
+      1777874846.287152,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7148,
+      14.0,
+      8.34,
+      72.43,
+      248.43,
+      -3424.71,
+      -4715.1401,
+      0.0,
+      0,
+      1778734258.284808,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7149,
+      14.0,
+      8.25,
+      80.86,
+      101.9,
+      1373.53,
+      -10287.8496,
+      0.0,
+      0,
+      1777983325.1355774,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7150,
+      14.0,
+      8.37,
+      66.58,
+      113.54,
+      -779.34,
+      -9846.0,
+      0.0,
+      0,
+      1778880383.6916847,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7151,
+      14.0,
+      8.64,
+      69.91,
+      321.91,
+      939.1,
+      -2498.1499,
+      0.0,
+      0,
+      1778414069.158113,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7152,
+      14.0,
+      8.12,
+      77.98,
+      165.64,
+      6220.73,
+      3708.0801,
+      0.0,
+      0,
+      1777793232.851543,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7153,
+      14.0,
+      8.68,
+      74.59,
+      1.39,
+      2650.3,
+      3855.79,
+      0.0,
+      0,
+      1777722585.67186,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7154,
+      14.0,
+      8.04,
+      76.51,
+      191.65,
+      -1351.5601,
+      2934.49,
+      0.0,
+      0,
+      1778259651.1567192,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7155,
+      14.0,
+      8.2,
+      86.68,
+      265.34,
+      4507.6699,
+      4710.04,
+      0.0,
+      0,
+      1778115745.0952034,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7156,
+      14.0,
+      8.57,
+      76.34,
+      241.38,
+      -2724.3799,
+      -4765.5,
+      0.0,
+      0,
+      1778006096.6824262,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7157,
+      14.0,
+      8.46,
+      71.65,
+      59.18,
+      5699.0601,
+      -1576.92,
+      0.0,
+      0,
+      1778127442.6319137,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7158,
+      14.0,
+      8.66,
+      68.86,
+      344.14,
+      1072.8101,
+      -9654.9004,
+      0.0,
+      0,
+      1778868427.044334,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7159,
+      14.0,
+      8.37,
+      87.48,
+      214.58,
+      -3976.54,
+      -3487.45,
+      0.0,
+      0,
+      1777618148.5945008,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7160,
+      14.0,
+      8.54,
+      75.39,
+      188.69,
+      1964.1,
+      -7072.1099,
+      0.0,
+      0,
+      1778386600.9810853,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7161,
+      14.0,
+      8.12,
+      85.88,
+      106.19,
+      1983.29,
+      -3927.45,
+      0.0,
+      0,
+      1779059009.6894348,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7162,
+      14.0,
+      8.76,
+      75.33,
+      202.17,
+      3558.6101,
+      2328.5801,
+      0.0,
+      1,
+      1778679072.0105546,
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260513_130709_RUN486_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0001.root",
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260513_130709_RUN486_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0001.root"
+    ],
+    "triggering_events": [
+      [
+        22,
+        "X"
+      ],
+      [
+        22,
+        "Y"
+      ],
+      [
+        30,
+        "Y"
+      ],
+      [
+        34,
+        "Y"
+      ],
+      [
+        42,
+        "Y"
+      ],
+      [
+        54,
+        "X"
+      ],
+      [
+        54,
+        "Y"
+      ],
+      [
+        84,
+        "X"
+      ],
+      [
+        84,
+        "Y"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [
+      [
+        42,
+        "Y"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      7163,
+      14.0,
+      8.13,
+      86.54,
+      287.19,
+      1459.24,
+      4155.52,
+      0.0,
+      0,
+      1778859783.0337434,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7164,
+      14.0,
+      8.01,
+      66.16,
+      275.31,
+      3634.76,
+      1767.46,
+      0.0,
+      0,
+      1778095620.565136,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7165,
+      14.0,
+      8.17,
+      70.07,
+      259.92,
+      3529.78,
+      3162.0801,
+      0.0,
+      0,
+      1777671434.135496,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7166,
+      14.0,
+      8.02,
+      84.33,
+      279.19,
+      -2202.29,
+      -2782.4399,
+      0.0,
+      0,
+      1778196669.0453656,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7167,
+      14.0,
+      8.19,
+      77.69,
+      215.71,
+      -163.99,
+      1588.5,
+      0.0,
+      0,
+      1778766453.9197793,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7168,
+      14.0,
+      8.92,
+      74.23,
+      300.93,
+      2729.8701,
+      -7644.6299,
+      0.0,
+      0,
+      1779020037.0124035,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7169,
+      14.0,
+      8.0,
+      87.17,
+      3.7,
+      829.52,
+      -229.46,
+      0.0,
+      0,
+      1778102312.20187,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7170,
+      14.0,
+      8.02,
+      86.32,
+      98.95,
+      1504.46,
+      -10103.5498,
+      0.0,
+      0,
+      1778553443.90876,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7171,
+      14.0,
+      8.25,
+      87.05,
+      344.59,
+      -3280.03,
+      -10818.29,
+      0.0,
+      0,
+      1777735086.2042215,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7172,
+      14.0,
+      8.31,
+      85.48,
+      52.09,
+      -2381.8301,
+      -11079.1104,
+      0.0,
+      0,
+      1778318613.2184823,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7173,
+      14.0,
+      8.1,
+      80.79,
+      143.0,
+      211.33,
+      -7238.6401,
+      0.0,
+      0,
+      1778405545.7013152,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7174,
+      14.0,
+      8.63,
+      81.29,
+      298.28,
+      -1396.97,
+      5191.1401,
+      0.0,
+      1,
+      1778471585.3819714,
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260511_035043_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0040.root",
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260511_035043_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0040.root"
+    ],
+    "triggering_events": [
+      [
+        4,
+        "X"
+      ],
+      [
+        10,
+        "X"
+      ],
+      [
+        12,
+        "X"
+      ],
+      [
+        14,
+        "X"
+      ],
+      [
+        17,
+        "X"
+      ],
+      [
+        18,
+        "X"
+      ],
+      [
+        22,
+        "X"
+      ],
+      [
+        25,
+        "X"
+      ],
+      [
+        26,
+        "X"
+      ],
+      [
+        27,
+        "X"
+      ],
+      [
+        30,
+        "X"
+      ],
+      [
+        33,
+        "X"
+      ],
+      [
+        34,
+        "X"
+      ],
+      [
+        36,
+        "X"
+      ],
+      [
+        38,
+        "X"
+      ],
+      [
+        42,
+        "X"
+      ],
+      [
+        43,
+        "X"
+      ],
+      [
+        46,
+        "X"
+      ],
+      [
+        49,
+        "X"
+      ],
+      [
+        54,
+        "X"
+      ],
+      [
+        77,
+        "X"
+      ],
+      [
+        80,
+        "X"
+      ],
+      [
+        92,
+        "X"
+      ],
+      [
+        101,
+        "X"
+      ],
+      [
+        115,
+        "X"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [
+      [
+        4,
+        "X"
+      ],
+      [
+        12,
+        "X"
+      ],
+      [
+        36,
+        "X"
+      ],
+      [
+        42,
+        "X"
+      ],
+      [
+        49,
+        "X"
+      ],
+      [
+        77,
+        "X"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      7175,
+      14.0,
+      8.49,
+      79.89,
+      84.2,
+      -3328.49,
+      743.73,
+      0.0,
+      0,
+      1777656407.938246,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7176,
+      14.0,
+      8.0,
+      84.8,
+      132.35,
+      -3128.03,
+      -9440.5898,
+      0.0,
+      0,
+      1779107197.3071249,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7177,
+      14.0,
+      8.38,
+      72.73,
+      323.11,
+      -2455.1799,
+      -10228.4902,
+      0.0,
+      0,
+      1778995276.2835722,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7178,
+      14.0,
+      8.64,
+      65.28,
+      75.25,
+      5685.9302,
+      -8237.3096,
+      0.0,
+      0,
+      1778086797.1420164,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7179,
+      14.0,
+      8.8,
+      87.67,
+      265.02,
+      6194.79,
+      4972.23,
+      0.0,
+      0,
+      1778332545.136239,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7180,
+      14.0,
+      8.56,
+      68.63,
+      10.93,
+      4478.2002,
+      4161.4399,
+      0.0,
+      0,
+      1778325219.787149,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7181,
+      14.0,
+      8.14,
+      86.66,
+      155.01,
+      4793.9102,
+      4800.3501,
+      0.0,
+      0,
+      1778192053.0849748,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7182,
+      14.0,
+      8.05,
+      71.24,
+      22.56,
+      5642.9199,
+      1249.9301,
+      0.0,
+      0,
+      1778398509.313763,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7183,
+      14.0,
+      8.64,
+      82.23,
+      359.19,
+      5814.3999,
+      -6726.23,
+      0.0,
+      0,
+      1777843753.8319082,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7184,
+      14.0,
+      8.89,
+      65.9,
+      276.9,
+      1828.55,
+      -1404.95,
+      0.0,
+      0,
+      1778311325.777985,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7185,
+      14.0,
+      8.93,
+      77.96,
+      1.83,
+      -2265.8301,
+      3518.5601,
+      0.0,
+      1,
+      1778429489.2425332,
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260510_143553_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0032.root",
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260510_143553_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0032.root"
+    ],
+    "triggering_events": [
+      [
+        77,
+        "Y"
+      ],
+      [
+        87,
+        "Y"
+      ],
+      [
+        92,
+        "Y"
+      ],
+      [
+        101,
+        "Y"
+      ],
+      [
+        104,
+        "Y"
+      ],
+      [
+        115,
+        "Y"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [
+      [
+        77,
+        "Y"
+      ],
+      [
+        87,
+        "Y"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      7186,
+      14.0,
+      8.38,
+      82.91,
+      185.12,
+      -4275.29,
+      -2679.1399,
+      0.0,
+      0,
+      1777956291.1852596,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7187,
+      14.0,
+      8.13,
+      78.0,
+      179.9,
+      2792.5,
+      -5450.0298,
+      0.0,
+      0,
+      1778623919.7557437,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7188,
+      14.0,
+      8.71,
+      71.9,
+      4.51,
+      -3773.1699,
+      -6536.3999,
+      0.0,
+      0,
+      1777898306.0930943,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7189,
+      14.0,
+      8.71,
+      77.06,
+      245.62,
+      2423.6001,
+      1471.88,
+      0.0,
+      1,
+      1777849312.8563004,
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260503_222243_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0039.root",
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260503_222243_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0039.root"
+    ],
+    "triggering_events": [
+      [
+        12,
+        "X"
+      ],
+      [
+        17,
+        "X"
+      ],
+      [
+        17,
+        "Y"
+      ],
+      [
+        21,
+        "X"
+      ],
+      [
+        21,
+        "Y"
+      ],
+      [
+        25,
+        "X"
+      ],
+      [
+        25,
+        "Y"
+      ],
+      [
+        26,
+        "X"
+      ],
+      [
+        26,
+        "Y"
+      ],
+      [
+        33,
+        "X"
+      ],
+      [
+        33,
+        "Y"
+      ],
+      [
+        34,
+        "X"
+      ],
+      [
+        34,
+        "Y"
+      ],
+      [
+        38,
+        "X"
+      ],
+      [
+        38,
+        "Y"
+      ],
+      [
+        41,
+        "X"
+      ],
+      [
+        49,
+        "X"
+      ],
+      [
+        49,
+        "Y"
+      ],
+      [
+        50,
+        "X"
+      ],
+      [
+        50,
+        "Y"
+      ],
+      [
+        53,
+        "X"
+      ],
+      [
+        54,
+        "X"
+      ],
+      [
+        84,
+        "X"
+      ],
+      [
+        84,
+        "Y"
+      ]
+    ],
+    "triggering_events_2": [
+      [
+        50,
+        "X",
+        2.8563,
+        -7.1437
+      ],
+      [
+        84,
+        "X",
+        2.8563,
+        -7.1437
+      ]
+    ],
+    "killed_md": [
+      [
+        12,
+        "X"
+      ],
+      [
+        21,
+        "X"
+      ],
+      [
+        21,
+        "Y"
+      ],
+      [
+        49,
+        "X"
+      ],
+      [
+        49,
+        "Y"
+      ],
+      [
+        53,
+        "X"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      7190,
+      14.0,
+      8.97,
+      76.06,
+      144.1,
+      -2980.3,
+      -446.27,
+      0.0,
+      1,
+      1779007551.3531475,
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260517_081222_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0016.root",
+      "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260517_081222_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0016.root"
+    ],
+    "triggering_events": [
+      [
+        20,
+        "X"
+      ],
+      [
+        20,
+        "Y"
+      ],
+      [
+        28,
+        "X"
+      ],
+      [
+        28,
+        "Y"
+      ],
+      [
+        32,
+        "X"
+      ],
+      [
+        32,
+        "Y"
+      ],
+      [
+        35,
+        "Y"
+      ],
+      [
+        37,
+        "Y"
+      ],
+      [
+        40,
+        "X"
+      ],
+      [
+        40,
+        "Y"
+      ],
+      [
+        44,
+        "X"
+      ],
+      [
+        44,
+        "Y"
+      ],
+      [
+        48,
+        "X"
+      ],
+      [
+        48,
+        "Y"
+      ],
+      [
+        52,
+        "X"
+      ],
+      [
+        52,
+        "Y"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [
+      [
+        37,
+        "Y"
+      ],
+      [
+        48,
+        "X"
+      ],
+      [
+        48,
+        "Y"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      7191,
+      14.0,
+      8.18,
+      65.65,
+      166.77,
+      -1129.8,
+      -5294.54,
+      0.0,
+      0,
+      1779070290.7901,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7192,
+      14.0,
+      8.58,
+      66.37,
+      175.67,
+      -3444.1101,
+      1613.1801,
+      0.0,
+      0,
+      1777848233.3867981,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7193,
+      14.0,
+      8.3,
+      66.19,
+      288.3,
+      4852.1802,
+      -1749.42,
+      0.0,
+      0,
+      1778440870.0353887,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7194,
+      14.0,
+      8.8,
+      77.61,
+      221.33,
+      3010.7,
+      -4599.73,
+      0.0,
+      0,
+      1777976920.8983598,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7195,
+      14.0,
+      8.95,
+      84.81,
+      287.51,
+      2038.3101,
+      4955.9502,
+      0.0,
+      0,
+      1778229449.8228197,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7196,
+      14.0,
+      8.95,
+      80.37,
+      95.2,
+      4666.3398,
+      -5748.5898,
+      0.0,
+      0,
+      1778880968.6738207,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7197,
+      14.0,
+      8.83,
+      83.61,
+      308.87,
+      -4004.45,
+      2445.3999,
+      0.0,
+      1,
+      1777670601.5155315,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [
+      [
+        2,
+        "X"
+      ],
+      [
+        8,
+        "X"
+      ],
+      [
+        8,
+        "Y"
+      ],
+      [
+        11,
+        "X"
+      ],
+      [
+        11,
+        "Y"
+      ],
+      [
+        13,
+        "X"
+      ],
+      [
+        13,
+        "Y"
+      ],
+      [
+        15,
+        "X"
+      ],
+      [
+        16,
+        "X"
+      ],
+      [
+        20,
+        "X"
+      ],
+      [
+        23,
+        "X"
+      ],
+      [
+        28,
+        "X"
+      ],
+      [
+        29,
+        "X"
+      ],
+      [
+        31,
+        "X"
+      ],
+      [
+        35,
+        "X"
+      ],
+      [
+        35,
+        "Y"
+      ],
+      [
+        40,
+        "X"
+      ],
+      [
+        44,
+        "X"
+      ],
+      [
+        45,
+        "X"
+      ],
+      [
+        45,
+        "Y"
+      ],
+      [
+        48,
+        "X"
+      ],
+      [
+        52,
+        "X"
+      ],
+      [
+        81,
+        "X"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [
+      [
+        8,
+        "X"
+      ],
+      [
+        8,
+        "Y"
+      ],
+      [
+        23,
+        "X"
+      ],
+      [
+        28,
+        "X"
+      ],
+      [
+        29,
+        "X"
+      ],
+      [
+        40,
+        "X"
+      ],
+      [
+        48,
+        "X"
+      ],
+      [
+        81,
+        "X"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      7198,
+      14.0,
+      8.99,
+      66.25,
+      85.2,
+      3692.4099,
+      3570.6899,
+      0.0,
+      0,
+      1779134493.4034634,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  },
+  {
+    "fixed": [
+      1,
+      7199,
+      14.0,
+      8.15,
+      79.32,
+      56.9,
+      -732.56,
+      -5039.4399,
+      0.0,
+      0,
+      1778975008.419756,
+      "failed",
+      "failed"
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": []
+  }
+]

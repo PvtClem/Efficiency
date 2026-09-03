@@ -1,0 +1,275 @@
+import numpy as np
+from scipy.signal import lfilter
+#from scipy.signal.windows import blackman
+from scipy import integrate
+
+def filter_traces_bandpass(traces, coeff_file='./lowpass115MHz.txt'):
+    '''
+    Mimics the DIRECT form FIR band-pass filter < 115 MHz that is implemented on the online firmware.
+    Filter coefficients are provided by Xing Xu.
+    Implemented with help of ChatGPT. See also `./test_bandpass_filter.ipynb`.
+
+    Arguments
+    ---------
+    - `traces`
+        + type        : `np.ndarray[int]`
+        + units       : ADC counts
+        + description : Array of ADC traces, with shape `(N_traces,N_channels,N_samples)`.
+
+    - `coeff_file`
+        + type        : str
+        + description : File containing the filter coefficients.
+                                
+    Returns
+    -------
+    - `traces_filtered`
+        + type        : `np.ndarray[float]`
+        + units       : "ADC counts"
+        + description : Array of filtered ADC traces, with shape `(N_traces,N_channels,N_samples)`.
+    '''
+
+    coeff  = np.loadtxt(coeff_file,delimiter=',')
+    traces_filtered = lfilter(coeff,1,traces)
+
+    return traces_filtered.astype(int)
+
+
+
+def apply_notch_filter(trace, which_filter, f_sample):
+
+    '''
+    Input parameters:
+    trace (ndarray[n_sample]): Time trace of ADC counts
+    which_filter (= 1, 2, 3, or 4): Notch filter used
+    f_sample (Hz): Sampling frequency (usually 500 MHz = 500e6 Hz)
+    '''
+
+    if which_filter == 1: # Filter 1 parameters
+        f_notch = 39e6
+        r = 0.9
+    elif which_filter == 2:  # Filter 2 parameters
+        f_notch = 119.4e6
+        r  = 0.94
+    elif which_filter == 3:  # Filter 3 parameters
+        f_notch = 132e6
+        r  = 0.95
+    elif which_filter == 4:  # Filter 4 parameters
+        f_notch = 137.8e6
+        r  = 0.98
+
+    nu = 2. * np.pi * f_notch / f_sample
+
+    ### Calculation of coefficients
+    a1 = 2. * (r ** 4) * np.cos(4.*nu)
+    a2 = - (r ** 8)
+    b1 = - 2. * np.cos(nu)
+    b2 = 1
+    b3 = 2. * r * np.cos(nu)
+    b4 = r * r
+    b5 = 2. * r * r * np.cos(2.*nu)
+    b6 = r ** 4
+
+    ### Calculation of the trace after passing the digital notch filter
+    ### Parameters:
+    ### y[n_sample]: output trace
+    ### y1[n_sample] & y2[n_sample]: intermediate variables
+    y, y1, y2 = np.zeros(trace.shape[0]), np.zeros(trace.shape[0]), np.zeros(trace.shape[0])
+
+    for n in range(trace.shape[0]):
+        y1[n] = b2 * trace[n] + b1 * trace[n-1] + trace[n-2]
+        y2[n] = y1[n] + b3 * y1[n-1] + b4 * y1[n-2]
+        #y[n]  = a1 * y[n-4] + a2 * y[n-8] + y2[n-2] + b5 * y2[n-4] + b6 * y2[n-6]
+        y[n]  = (int)(a1 * y[n-4] + a2 * y[n-8] + y2[n-2] + b5 * y2[n-4] + b6 * y2[n-6])
+
+    return y
+
+
+
+def FIR_plus_notch_filter_39MHz(tadc_trace, f_sample):
+
+    ### One notch filter @ 39 MHz & the FIR filter
+
+    return filter_traces_bandpass(apply_notch_filter(tadc_trace, 1, f_sample))
+
+
+
+def four_notch_filters(tadc_trace, f_sample):
+
+    ### Four notch filters @ 39, 119.4, 132, & 137.8 MHz
+    
+    return apply_notch_filter(apply_notch_filter(apply_notch_filter(apply_notch_filter(tadc_trace, 1, f_sample), 2, f_sample), 3, f_sample), 4, f_sample)
+
+
+
+def filter_trace(which, tadc_trace, f_sample):
+
+    if which == 'none':
+        filtered_trace = tadc_trace
+    elif which == 'fir':
+        filtered_trace = FIR_plus_notch_filter_39MHz(tadc_trace, f_sample)
+    elif which == 'notch':
+        filtered_trace = four_notch_filters(tadc_trace, f_sample)
+        
+    return filtered_trace
+
+
+
+def calculate_relative_trace_start_time(tshower_l0, tadc_l1, time_res):
+
+    ### Calculate the relative start timing of each trace (the same for all channels of each DU)
+    ### The unit is nanoseconds
+    ### The value can be minus.
+
+    ### Inputs:
+    ### tshower_l0: tshower L0 object
+    ### tadc_l1: tadc L1 object
+    ### time_res (ns): time resolution of sampling
+    ### = 1 / fs, where fs is a sampling frequency
+
+    core_time_s, core_time_ns = tshower_l0.core_time_s, tshower_l0.core_time_ns
+    du_s, du_ns = np.array(tadc_l1.du_seconds), np.array(tadc_l1.du_nanoseconds)
+    trig_pos_ns = np.array(tadc_l1.trigger_position) * time_res
+    rel_trig_time_ns = ((du_s - core_time_s) * 1.e9 + (du_ns - core_time_ns)).astype(int)
+    rel_trace_start_time_ns = (rel_trig_time_ns - trig_pos_ns).astype(int)
+
+    return rel_trace_start_time_ns
+
+
+
+def discuss_coincidence(trig_time_du_id, any_du, time_window):
+
+    ### Discuss a coincidence between DUs to judge a detection of an air shower event
+
+    ### Inputs:
+    ### trig_time_du_id: list of relative trigger timing
+    ### components: (t_trig, ns) & DU ID (du_id) & arm ('X', 'Y', 'Z')
+    ### = [[t_trig_0, du_id_0, arm_0], [t_trig_1, du_id_1, arm_1], ..., [t_trig_N, du_id_N, arm_N]]
+    ### any_du: number of DUs required to issue a trigger
+    ### time_window (ns): time window to discuss a coincidence
+    
+    ### Return:
+    ### trig: trigger flag, 0 = NOT triggered & 1 = successfully triggered
+    ### trig_list: list of relative trigger timing
+    ### (t_trig, ns) & DU ID (du_id) & arm ('X', 'Y', 'Z')
+    ### of the DUs which issued the trigger
+    
+    trig = 0
+    trig_list = []
+
+    if len(trig_time_du_id) >= any_du:
+
+        trig_time_du_id.sort() # sort w/ t_trig in ascending order
+
+        for n in range(len(trig_time_du_id)):
+            trig_time_list = [trig_time_du_id[n]]
+
+            for m in range(n, len(trig_time_du_id)):
+                there_is_same_du = False
+
+                for l in range(len(trig_time_list)):
+                    if trig_time_list[l][1] == trig_time_du_id[m][1]:
+                        there_is_same_du = True
+                        break
+                    
+                if there_is_same_du: continue
+                else: trig_time_list.append(trig_time_du_id[m])
+
+                if len(trig_time_list) == any_du: break
+
+            if len(trig_time_list) < any_du: continue
+            else: # len() == any_du
+                if trig_time_list[-1][0] - trig_time_list[0][0] < time_window:
+                    trig_list = trig_time_list
+                    trig = 1
+                    break
+                else: continue
+
+    return trig, trig_list
+
+"""
+    if trig_time_du_id:
+
+        trig_time_du_id.sort() # sort w/ t_trig in ascending order
+
+        for n in range(len(trig_time_du_id)):
+            trig_time_list = [trig_time_du_id[n]]
+
+            for m in range(n, len(trig_time_du_id)):
+                there_is_same_du = False
+
+                for l in range(len(trig_time_list)):
+                    if trig_time_list[l][1] == trig_time_du_id[m][1]:
+                        there_is_same_du = True
+                        break
+                    
+                if there_is_same_du: continue
+                else: trig_time_list.append(trig_time_du_id[m])
+
+            if len(trig_time_list) >= any_du:
+
+                for l in range(len(trig_time_list)-(any_du-1)):
+                    if trig_time_list[l+any_du-1][0] - trig_time_list[l][0] < time_window:
+                        trig_list = trig_time_list[l:l+any_du]
+                        trig = 1
+                        break
+
+            if trig: break
+            else: continue
+
+    return trig, trig_list
+"""
+
+
+
+def calculate_PAO_spectrum(e_eV):
+
+    ### Calculate the CR flux measured by PAO in 10 ** 17 eV < E < 10 ** 20 eV
+    ### with the SD-750 and SD-1500.
+    ### The formula of the spectrum is Equation (13) of
+    ### Abreu et al., Eur. Phys. J. C 81, 966 (2021)
+    ### (https://doi.org/10.1140/epjc/s10052-021-09700-w)
+
+    j_0 = 1.309e-18 # km^-2 yr^-1 sr^-1 eV^-1
+    e_0 = 10 ** 18.5 # eV
+    omega_01, omega_12, omega_23, omega_34 = 0.43, 0.05, 0.05, 0.05
+    g_0, g_1, g_2, g_3, g_4 = 2.64, 3.298, 2.52, 3.08, 5.2
+    e_01, e_12, e_23, e_34 = 1.24e17, 4.9e18, 1.4e19, 4.7e19 # eV
+
+    j = j_0 * (e_eV/e_0) ** (-g_0) \
+            * (1 + (e_eV/e_01) ** (1/omega_01)) ** ((g_0-g_1) * omega_01) \
+            * (1 + (e_eV/e_12) ** (1/omega_12)) ** ((g_1-g_2) * omega_12) \
+            * (1 + (e_eV/e_23) ** (1/omega_23)) ** ((g_2-g_3) * omega_23) \
+            * (1 + (e_eV/e_34) ** (1/omega_34)) ** ((g_3-g_4) * omega_34) \
+            / (1 + (e_0/e_01)  ** (1/omega_01)) ** ((g_0-g_1) * omega_01) \
+            / (1 + (e_0/e_12)  ** (1/omega_12)) ** ((g_1-g_2) * omega_12) \
+            / (1 + (e_0/e_23)  ** (1/omega_23)) ** ((g_2-g_3) * omega_23) \
+            / (1 + (e_0/e_34)  ** (1/omega_34)) ** ((g_3-g_4) * omega_34)
+
+    return j
+
+
+
+def calculate_weighting_factor_energy_PAO_spectrum(e_eV, emin_eV, emax_eV):
+
+    w_uni = 1 / e_eV / np.log(emax_eV/emin_eV)
+
+    coeff, coeff_err = integrate.quad(calculate_PAO_spectrum, emin_eV, emax_eV)
+    w = calculate_PAO_spectrum(e_eV) / coeff
+
+    return w / w_uni
+
+
+
+def has_duplicates(seq):
+
+    ### Judge if a list of list objects the same list objects ###
+    ### For example,
+    ### l1 = [[200, 'X'], [256, 'Y'], [300, 'X'], [120, 'Y']] -> 0 (False)
+    ### l2 = [[200, 'X'], [256, 'Y'], [200, 'X'], [120, 'Y']] -> 1 (True)
+    ### l3 = [[200, 'X'], [200, 'X'], [200, 'X'], [120, 'Y']] -> 1
+    ### l4 = [[200, 'X'], [256, 'Y'], [200, 'X'], [256, 'Y']] -> 1
+    ### etc.
+    
+    seen = []
+    unique_list = [x for x in seq if x not in seen and not seen.append(x)]
+    return int(len(seq) != len(unique_list))

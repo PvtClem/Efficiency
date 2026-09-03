@@ -1,0 +1,4719 @@
+[
+  {
+    "fixed": [
+      1,
+      106300,
+      5626.0,
+      8.0,
+      66.54,
+      109.9,
+      -1254.1801,
+      -2089.9399,
+      0.0,
+      0,
+      1779143863.6518161
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106301,
+      5626.0,
+      8.48,
+      75.82,
+      23.88,
+      2932.0,
+      -4691.6899,
+      0.0,
+      0,
+      1778388466.380709
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106302,
+      5626.0,
+      8.14,
+      80.96,
+      36.26,
+      -1044.65,
+      356.44,
+      0.0,
+      0,
+      1779846880.3646634
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106303,
+      5626.0,
+      8.36,
+      84.35,
+      31.99,
+      -2867.0,
+      -3073.27,
+      0.0,
+      0,
+      1779907437.5297046
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106304,
+      5626.0,
+      8.07,
+      70.9,
+      200.93,
+      5821.5498,
+      1619.6899,
+      0.0,
+      0,
+      1779691908.6739597
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106305,
+      5626.0,
+      8.83,
+      66.65,
+      303.55,
+      3312.8401,
+      -4468.1401,
+      0.0,
+      0,
+      1777798514.2342193
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106306,
+      5626.0,
+      8.03,
+      78.23,
+      71.21,
+      3191.73,
+      -6614.04,
+      0.0,
+      0,
+      1778508312.9507225
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106307,
+      5626.0,
+      8.67,
+      85.21,
+      135.28,
+      461.59,
+      -10888.3604,
+      0.0,
+      0,
+      1778126815.88383
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106308,
+      5626.0,
+      8.85,
+      73.08,
+      122.04,
+      -1016.87,
+      -9006.8203,
+      0.0,
+      0,
+      1778650705.0680535
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106309,
+      5626.0,
+      8.95,
+      65.06,
+      350.24,
+      -756.43,
+      -8243.4805,
+      0.0,
+      0,
+      1779545396.5509171
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106310,
+      5626.0,
+      8.76,
+      82.4,
+      112.1,
+      -1163.34,
+      -7402.7798,
+      0.0,
+      0,
+      1778130978.7459679
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106311,
+      5626.0,
+      8.31,
+      83.16,
+      312.2,
+      1516.17,
+      -10917.0195,
+      0.0,
+      0,
+      1779208031.847121
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106312,
+      5626.0,
+      8.34,
+      85.1,
+      45.95,
+      1078.5601,
+      875.97,
+      0.0,
+      0,
+      1777634877.860986
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106313,
+      5626.0,
+      8.82,
+      83.34,
+      220.91,
+      5151.6201,
+      4792.1899,
+      0.0,
+      1,
+      1778875120.4863305
+    ],
+    "triggering_events": [
+      [
+        0,
+        "X",
+        47.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        0,
+        "Y",
+        47.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        1,
+        "X",
+        48.0,
+        "failed",
+        "failed"
+      ],
+      [
+        1,
+        "Y",
+        47.0,
+        "failed",
+        "failed"
+      ],
+      [
+        2,
+        "X",
+        49.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        2,
+        "Y",
+        48.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        4,
+        "X",
+        47.0,
+        "failed",
+        "failed"
+      ],
+      [
+        4,
+        "Y",
+        47.0,
+        "failed",
+        "failed"
+      ],
+      [
+        5,
+        "X",
+        47.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        5,
+        "Y",
+        43.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        6,
+        "X",
+        45.0,
+        "failed",
+        "failed"
+      ],
+      [
+        6,
+        "Y",
+        45.0,
+        "failed",
+        "failed"
+      ],
+      [
+        7,
+        "X",
+        46.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        7,
+        "Y",
+        44.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        8,
+        "X",
+        47.0,
+        "failed",
+        "failed"
+      ],
+      [
+        8,
+        "Y",
+        46.0,
+        "failed",
+        "failed"
+      ],
+      [
+        10,
+        "X",
+        43.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        10,
+        "Y",
+        43.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        11,
+        "X",
+        50.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        11,
+        "Y",
+        46.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        12,
+        "X",
+        44.0,
+        "failed",
+        "failed"
+      ],
+      [
+        12,
+        "Y",
+        41.0,
+        "failed",
+        "failed"
+      ],
+      [
+        14,
+        "X",
+        46.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        14,
+        "Y",
+        46.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        15,
+        "X",
+        42.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        15,
+        "Y",
+        39.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        16,
+        "X",
+        49.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        16,
+        "Y",
+        49.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        18,
+        "X",
+        47.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        18,
+        "Y",
+        46.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        20,
+        "X",
+        48.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        20,
+        "Y",
+        46.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        22,
+        "X",
+        43.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        22,
+        "Y",
+        41.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        23,
+        "X",
+        35.0,
+        "failed",
+        "failed"
+      ],
+      [
+        23,
+        "Y",
+        32.0,
+        "failed",
+        "failed"
+      ],
+      [
+        24,
+        "X",
+        48.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        24,
+        "Y",
+        45.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        26,
+        "X",
+        42.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        26,
+        "Y",
+        37.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        30,
+        "X",
+        46.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        30,
+        "Y",
+        45.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        32,
+        "X",
+        50.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        32,
+        "Y",
+        49.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        34,
+        "X",
+        46.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        34,
+        "Y",
+        46.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        36,
+        "X",
+        37.0,
+        "failed",
+        "failed"
+      ],
+      [
+        36,
+        "Y",
+        34.0,
+        "failed",
+        "failed"
+      ],
+      [
+        40,
+        "X",
+        32.0,
+        "failed",
+        "failed"
+      ],
+      [
+        42,
+        "X",
+        46.0,
+        "failed",
+        "failed"
+      ],
+      [
+        42,
+        "Y",
+        43.0,
+        "failed",
+        "failed"
+      ],
+      [
+        46,
+        "X",
+        43.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        46,
+        "Y",
+        41.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        48,
+        "X",
+        44.0,
+        "failed",
+        "failed"
+      ],
+      [
+        48,
+        "Y",
+        42.0,
+        "failed",
+        "failed"
+      ],
+      [
+        50,
+        "X",
+        37.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        50,
+        "Y",
+        35.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        52,
+        "X",
+        49.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        52,
+        "Y",
+        46.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        54,
+        "X",
+        39.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        54,
+        "Y",
+        40.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        84,
+        "X",
+        41.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        84,
+        "Y",
+        40.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260515_195613_RUN487_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0027.root"
+      ],
+      [
+        90,
+        "X",
+        45.0,
+        "failed",
+        "failed"
+      ],
+      [
+        90,
+        "Y",
+        44.0,
+        "failed",
+        "failed"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [
+      [
+        1,
+        "X"
+      ],
+      [
+        1,
+        "Y"
+      ],
+      [
+        4,
+        "X"
+      ],
+      [
+        4,
+        "Y"
+      ],
+      [
+        6,
+        "X"
+      ],
+      [
+        6,
+        "Y"
+      ],
+      [
+        8,
+        "X"
+      ],
+      [
+        8,
+        "Y"
+      ],
+      [
+        12,
+        "X"
+      ],
+      [
+        12,
+        "Y"
+      ],
+      [
+        23,
+        "X"
+      ],
+      [
+        23,
+        "Y"
+      ],
+      [
+        36,
+        "X"
+      ],
+      [
+        36,
+        "Y"
+      ],
+      [
+        40,
+        "X"
+      ],
+      [
+        42,
+        "X"
+      ],
+      [
+        42,
+        "Y"
+      ],
+      [
+        48,
+        "X"
+      ],
+      [
+        48,
+        "Y"
+      ],
+      [
+        90,
+        "X"
+      ],
+      [
+        90,
+        "Y"
+      ]
+    ],
+    "killed Tquiet": [
+      [
+        0,
+        "X",
+        "No T1"
+      ],
+      [
+        0,
+        "Y",
+        "No T1"
+      ],
+      [
+        2,
+        "X",
+        "No T1"
+      ],
+      [
+        2,
+        "Y",
+        "No T1"
+      ],
+      [
+        5,
+        "X",
+        "No T1"
+      ],
+      [
+        5,
+        "Y",
+        "No T1"
+      ],
+      [
+        7,
+        "X",
+        "Idx100"
+      ],
+      [
+        7,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        10,
+        "X",
+        "No T1"
+      ],
+      [
+        10,
+        "Y",
+        "No T1"
+      ],
+      [
+        11,
+        "X",
+        "No T1"
+      ],
+      [
+        11,
+        "Y",
+        "No T1"
+      ],
+      [
+        14,
+        "X",
+        "No T1"
+      ],
+      [
+        14,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        15,
+        "X",
+        "No T1"
+      ],
+      [
+        15,
+        "Y",
+        "No T1"
+      ],
+      [
+        16,
+        "X",
+        "No T1"
+      ],
+      [
+        16,
+        "Y",
+        "No T1"
+      ],
+      [
+        18,
+        "X",
+        "No T1"
+      ],
+      [
+        18,
+        "Y",
+        "No T1"
+      ],
+      [
+        20,
+        "X",
+        "No T1"
+      ],
+      [
+        20,
+        "Y",
+        "No T1"
+      ],
+      [
+        22,
+        "X",
+        "No T1"
+      ],
+      [
+        22,
+        "Y",
+        "No T1"
+      ],
+      [
+        24,
+        "X",
+        "No T1"
+      ],
+      [
+        24,
+        "Y",
+        "No T1"
+      ],
+      [
+        26,
+        "X",
+        "No T1"
+      ],
+      [
+        26,
+        "Y",
+        "No T1"
+      ],
+      [
+        30,
+        "X",
+        "No T1"
+      ],
+      [
+        30,
+        "Y",
+        "No T1"
+      ],
+      [
+        32,
+        "X",
+        "No T1"
+      ],
+      [
+        32,
+        "Y",
+        "No T1"
+      ],
+      [
+        34,
+        "X",
+        "Idx100"
+      ],
+      [
+        34,
+        "Y",
+        "No T1"
+      ],
+      [
+        46,
+        "X",
+        "No T1"
+      ],
+      [
+        46,
+        "Y",
+        "No T1"
+      ],
+      [
+        50,
+        "X",
+        "No T1"
+      ],
+      [
+        50,
+        "Y",
+        "No T1"
+      ],
+      [
+        52,
+        "X",
+        "No T1"
+      ],
+      [
+        52,
+        "Y",
+        "No T1"
+      ],
+      [
+        54,
+        "X",
+        "No T1"
+      ],
+      [
+        54,
+        "Y",
+        "No T1"
+      ],
+      [
+        84,
+        "X",
+        "Idx100"
+      ],
+      [
+        84,
+        "Y",
+        "No T1"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      106314,
+      5626.0,
+      8.24,
+      81.49,
+      357.08,
+      -1433.74,
+      -11244.0303,
+      0.0,
+      0,
+      1779637579.4963932
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106315,
+      5626.0,
+      8.35,
+      79.73,
+      22.35,
+      -3270.6699,
+      -4745.8599,
+      0.0,
+      0,
+      1779039633.4148674
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106316,
+      5626.0,
+      8.94,
+      75.71,
+      267.11,
+      1742.72,
+      -4525.6001,
+      0.0,
+      0,
+      1777798923.4034266
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106317,
+      5626.0,
+      8.38,
+      84.98,
+      236.31,
+      1201.1,
+      -1876.76,
+      0.0,
+      0,
+      1779228164.6285496
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106318,
+      5626.0,
+      8.64,
+      70.54,
+      306.44,
+      505.52,
+      3719.28,
+      0.0,
+      0,
+      1778533595.2073774
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106319,
+      5626.0,
+      8.34,
+      74.05,
+      159.04,
+      1678.87,
+      -11133.2803,
+      0.0,
+      0,
+      1778311953.7401001
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106320,
+      5626.0,
+      8.43,
+      67.45,
+      99.01,
+      -1240.4301,
+      513.98,
+      0.0,
+      1,
+      1779245620.2226405
+    ],
+    "triggering_events": [
+      [
+        11,
+        "X",
+        80.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root"
+      ],
+      [
+        15,
+        "X",
+        79.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root"
+      ],
+      [
+        16,
+        "X",
+        58.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root"
+      ],
+      [
+        19,
+        "X",
+        64.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root"
+      ],
+      [
+        23,
+        "X",
+        76.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root"
+      ],
+      [
+        24,
+        "X",
+        45.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root"
+      ],
+      [
+        31,
+        "X",
+        73.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root"
+      ],
+      [
+        51,
+        "X",
+        66.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260520_013702_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0066.root"
+      ]
+    ],
+    "triggering_events_2": [
+      [
+        23,
+        "X",
+        0.2226,
+        -9.7774,
+        714
+      ],
+      [
+        31,
+        "X",
+        0.2226,
+        -9.7774,
+        -1047
+      ],
+      [
+        51,
+        "X",
+        0.2226,
+        -9.7774,
+        -2816
+      ]
+    ],
+    "killed_md": [],
+    "killed Tquiet": [
+      [
+        11,
+        "X",
+        "No T1"
+      ],
+      [
+        15,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        16,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        19,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        24,
+        "X",
+        "No T1"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      106321,
+      5626.0,
+      8.55,
+      83.25,
+      97.49,
+      -1149.24,
+      -11240.5596,
+      0.0,
+      0,
+      1779409600.2493277
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106322,
+      5626.0,
+      8.65,
+      87.37,
+      179.69,
+      -2921.3601,
+      2981.71,
+      0.0,
+      0,
+      1779526304.0817828
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106323,
+      5626.0,
+      8.64,
+      78.62,
+      34.61,
+      -1213.1899,
+      -4150.54,
+      0.0,
+      0,
+      1779126478.6484315
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106324,
+      5626.0,
+      8.55,
+      70.83,
+      86.76,
+      -3834.8501,
+      -2175.6299,
+      0.0,
+      0,
+      1780186247.3199644
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106325,
+      5626.0,
+      8.16,
+      84.97,
+      122.42,
+      -334.01,
+      1931.28,
+      0.0,
+      0,
+      1778554679.6568487
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106326,
+      5626.0,
+      8.2,
+      69.53,
+      43.68,
+      4449.8198,
+      -10499.0195,
+      0.0,
+      0,
+      1779612598.0586395
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106327,
+      5626.0,
+      8.57,
+      68.1,
+      237.81,
+      2258.22,
+      4304.8799,
+      0.0,
+      0,
+      1777959823.4876735
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106328,
+      5626.0,
+      8.34,
+      66.31,
+      259.38,
+      4128.7402,
+      4262.0,
+      0.0,
+      0,
+      1778973121.595855
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106329,
+      5626.0,
+      8.96,
+      71.46,
+      306.88,
+      -3510.55,
+      -10046.8398,
+      0.0,
+      0,
+      1779646238.5243013
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106330,
+      5626.0,
+      8.38,
+      72.6,
+      14.5,
+      1307.62,
+      -4834.8999,
+      0.0,
+      0,
+      1779364767.2570465
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106331,
+      5626.0,
+      8.77,
+      83.67,
+      59.49,
+      -941.85,
+      -9090.7402,
+      0.0,
+      0,
+      1779716967.0365717
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106332,
+      5626.0,
+      8.84,
+      66.06,
+      94.58,
+      265.5,
+      -2665.5,
+      0.0,
+      0,
+      1778958274.1091607
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106333,
+      5626.0,
+      8.69,
+      76.04,
+      139.67,
+      -725.63,
+      -5024.5098,
+      0.0,
+      0,
+      1777793567.1028492
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106334,
+      5626.0,
+      8.65,
+      81.02,
+      10.75,
+      -4205.8901,
+      -5067.2998,
+      0.0,
+      0,
+      1779140008.6219041
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106335,
+      5626.0,
+      8.86,
+      66.1,
+      63.95,
+      -3672.77,
+      -8602.6797,
+      0.0,
+      0,
+      1780013151.0654767
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106336,
+      5626.0,
+      8.51,
+      79.19,
+      92.97,
+      6043.1201,
+      -7993.9702,
+      0.0,
+      0,
+      1778721462.5130236
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106337,
+      5626.0,
+      8.71,
+      87.42,
+      116.51,
+      -697.18,
+      -7053.0601,
+      0.0,
+      0,
+      1778246790.712289
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106338,
+      5626.0,
+      8.02,
+      77.96,
+      283.71,
+      -1383.47,
+      -6310.1299,
+      0.0,
+      0,
+      1778331358.7595074
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106339,
+      5626.0,
+      8.21,
+      67.31,
+      290.47,
+      240.04,
+      -11054.1201,
+      0.0,
+      0,
+      1778973944.8354623
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106340,
+      5626.0,
+      8.84,
+      85.56,
+      262.34,
+      -1212.55,
+      -2499.3799,
+      0.0,
+      0,
+      1777990937.095793
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106341,
+      5626.0,
+      8.56,
+      83.26,
+      262.73,
+      5150.75,
+      -2559.79,
+      0.0,
+      0,
+      1779317766.1586125
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106342,
+      5626.0,
+      8.69,
+      83.85,
+      221.5,
+      3470.5901,
+      -6832.21,
+      0.0,
+      0,
+      1777772015.413867
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106343,
+      5626.0,
+      8.56,
+      84.44,
+      162.46,
+      3053.3201,
+      -5086.52,
+      0.0,
+      0,
+      1778836254.9684074
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106344,
+      5626.0,
+      8.96,
+      85.43,
+      0.64,
+      -4094.53,
+      5088.21,
+      0.0,
+      0,
+      1779403033.3094919
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106345,
+      5626.0,
+      8.06,
+      78.97,
+      97.34,
+      2972.0,
+      4271.52,
+      0.0,
+      0,
+      1778662292.2159157
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106346,
+      5626.0,
+      8.87,
+      75.55,
+      34.52,
+      5553.3999,
+      1795.77,
+      0.0,
+      0,
+      1778623963.9299927
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106347,
+      5626.0,
+      8.9,
+      69.41,
+      335.1,
+      -1933.28,
+      2586.8201,
+      0.0,
+      0,
+      1777670606.8528414
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106348,
+      5626.0,
+      8.42,
+      67.4,
+      318.97,
+      3680.95,
+      -7940.8999,
+      0.0,
+      0,
+      1778585158.4684136
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106349,
+      5626.0,
+      8.65,
+      80.89,
+      29.86,
+      2544.49,
+      -1052.86,
+      0.0,
+      1,
+      1779080646.1370544
+    ],
+    "triggering_events": [
+      [
+        17,
+        "Y",
+        32.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        21,
+        "X",
+        33.0,
+        "failed",
+        "failed"
+      ],
+      [
+        21,
+        "Y",
+        72.0,
+        "failed",
+        "failed"
+      ],
+      [
+        25,
+        "Y",
+        32.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        29,
+        "X",
+        33.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        29,
+        "Y",
+        69.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        33,
+        "X",
+        33.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        33,
+        "Y",
+        71.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        35,
+        "X",
+        31.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        35,
+        "Y",
+        66.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        38,
+        "Y",
+        31.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        41,
+        "Y",
+        64.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        44,
+        "X",
+        31.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        44,
+        "Y",
+        67.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        45,
+        "Y",
+        65.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        49,
+        "X",
+        33.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        49,
+        "Y",
+        71.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260518_044843_RUN491_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0032.root"
+      ],
+      [
+        53,
+        "Y",
+        62.0,
+        "failed",
+        "failed"
+      ]
+    ],
+    "triggering_events_2": [
+      [
+        29,
+        "Y",
+        -3.8629,
+        6.1371,
+        6648
+      ]
+    ],
+    "killed_md": [
+      [
+        21,
+        "X"
+      ],
+      [
+        21,
+        "Y"
+      ],
+      [
+        53,
+        "Y"
+      ]
+    ],
+    "killed Tquiet": [
+      [
+        17,
+        "Y",
+        "No T1"
+      ],
+      [
+        25,
+        "Y",
+        "No T1"
+      ],
+      [
+        29,
+        "X",
+        "Idx100"
+      ],
+      [
+        33,
+        "X",
+        "No T1"
+      ],
+      [
+        33,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        35,
+        "X",
+        "Idx100"
+      ],
+      [
+        35,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        38,
+        "Y",
+        "No T1"
+      ],
+      [
+        41,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        44,
+        "X",
+        "Idx100"
+      ],
+      [
+        44,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        45,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        49,
+        "X",
+        "No T1"
+      ],
+      [
+        49,
+        "Y",
+        "Not Tquiet"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      106350,
+      5626.0,
+      8.92,
+      65.37,
+      276.59,
+      -2940.3999,
+      -10447.8496,
+      0.0,
+      0,
+      1777629783.1021073
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106351,
+      5626.0,
+      8.05,
+      86.42,
+      134.33,
+      -3749.1499,
+      -9208.7998,
+      0.0,
+      0,
+      1778758413.2510414
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106352,
+      5626.0,
+      8.67,
+      75.08,
+      189.9,
+      1488.88,
+      3216.5601,
+      0.0,
+      1,
+      1778388152.359687
+    ],
+    "triggering_events": [
+      [
+        77,
+        "Y",
+        127.0,
+        "failed",
+        "failed"
+      ],
+      [
+        80,
+        "Y",
+        136.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260510_040343_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0025.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260510_040343_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0025.root"
+      ],
+      [
+        87,
+        "Y",
+        74.0,
+        "failed",
+        "failed"
+      ],
+      [
+        90,
+        "Y",
+        120.0,
+        "failed",
+        "failed"
+      ],
+      [
+        92,
+        "Y",
+        119.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260510_040343_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0025.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260510_040343_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0025.root"
+      ],
+      [
+        101,
+        "Y",
+        32.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260510_040343_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0025.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260510_040343_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0025.root"
+      ],
+      [
+        104,
+        "Y",
+        138.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260510_040343_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0025.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260510_040343_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0025.root"
+      ]
+    ],
+    "triggering_events_2": [
+      [
+        80,
+        "Y",
+        2.3597,
+        -7.6403,
+        -3369
+      ],
+      [
+        92,
+        "Y",
+        2.3597,
+        -7.6403,
+        -4498
+      ],
+      [
+        104,
+        "Y",
+        2.3597,
+        -7.6403,
+        -1315
+      ]
+    ],
+    "killed_md": [
+      [
+        77,
+        "Y"
+      ],
+      [
+        87,
+        "Y"
+      ],
+      [
+        90,
+        "Y"
+      ]
+    ],
+    "killed Tquiet": [
+      [
+        101,
+        "Y",
+        "No T1"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      106353,
+      5626.0,
+      8.15,
+      67.15,
+      58.56,
+      -142.75,
+      5000.2402,
+      0.0,
+      0,
+      1779184630.771413
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106354,
+      5626.0,
+      8.65,
+      72.88,
+      321.2,
+      -3241.6001,
+      -8709.7998,
+      0.0,
+      0,
+      1778354067.8976948
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106355,
+      5626.0,
+      8.59,
+      72.88,
+      37.16,
+      -4307.54,
+      2251.1499,
+      0.0,
+      0,
+      1778847689.3007162
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106356,
+      5626.0,
+      8.54,
+      87.36,
+      167.66,
+      -1196.5601,
+      -199.59,
+      0.0,
+      0,
+      1777868830.8773065
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106357,
+      5626.0,
+      8.9,
+      77.58,
+      117.65,
+      63.02,
+      -9737.6904,
+      0.0,
+      0,
+      1780183185.960207
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106358,
+      5626.0,
+      8.91,
+      76.66,
+      227.63,
+      -3981.1799,
+      -10123.21,
+      0.0,
+      0,
+      1778290760.5248187
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106359,
+      5626.0,
+      8.02,
+      72.21,
+      304.58,
+      -3048.9199,
+      -1541.3199,
+      0.0,
+      0,
+      1778223586.8022997
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106360,
+      5626.0,
+      8.77,
+      80.62,
+      280.27,
+      2820.8899,
+      -4427.3599,
+      0.0,
+      1,
+      1777700205.811313
+    ],
+    "triggering_events": [
+      [
+        12,
+        "X",
+        38.0,
+        "failed",
+        "failed"
+      ],
+      [
+        17,
+        "X",
+        32.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        18,
+        "X",
+        40.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        22,
+        "X",
+        39.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        25,
+        "X",
+        93.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        26,
+        "X",
+        90.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        33,
+        "X",
+        94.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        34,
+        "X",
+        85.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        38,
+        "X",
+        100.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        42,
+        "X",
+        38.0,
+        "failed",
+        "failed"
+      ],
+      [
+        49,
+        "X",
+        101.0,
+        "failed",
+        "failed"
+      ],
+      [
+        50,
+        "X",
+        96.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        53,
+        "X",
+        92.0,
+        "failed",
+        "failed"
+      ],
+      [
+        54,
+        "X",
+        76.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        84,
+        "X",
+        68.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260502_044503_RUN474_MD_20dB-50DUs-512trace-FY2Float-Normal-WOonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        90,
+        "X",
+        50.0,
+        "failed",
+        "failed"
+      ]
+    ],
+    "triggering_events_2": [
+      [
+        25,
+        "X",
+        -4.1887,
+        5.8113,
+        14390
+      ],
+      [
+        33,
+        "X",
+        -4.1887,
+        5.8113,
+        12534
+      ],
+      [
+        38,
+        "X",
+        -4.1887,
+        5.8113,
+        15051
+      ]
+    ],
+    "killed_md": [
+      [
+        12,
+        "X"
+      ],
+      [
+        42,
+        "X"
+      ],
+      [
+        49,
+        "X"
+      ],
+      [
+        53,
+        "X"
+      ],
+      [
+        90,
+        "X"
+      ]
+    ],
+    "killed Tquiet": [
+      [
+        17,
+        "X",
+        "No T1"
+      ],
+      [
+        18,
+        "X",
+        "No T1"
+      ],
+      [
+        22,
+        "X",
+        "No T1"
+      ],
+      [
+        26,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        34,
+        "X",
+        "No T1"
+      ],
+      [
+        50,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        54,
+        "X",
+        "No T1"
+      ],
+      [
+        84,
+        "X",
+        "No T1"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      106361,
+      5626.0,
+      8.76,
+      79.79,
+      51.64,
+      -1061.3101,
+      1359.79,
+      0.0,
+      1,
+      1778127401.7844052
+    ],
+    "triggering_events": [
+      [
+        1,
+        "X",
+        36.0,
+        "failed",
+        "failed"
+      ],
+      [
+        7,
+        "X",
+        86.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        7,
+        "Y",
+        69.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        11,
+        "X",
+        59.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        11,
+        "Y",
+        52.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        14,
+        "X",
+        55.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        14,
+        "Y",
+        48.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        15,
+        "X",
+        84.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        15,
+        "Y",
+        68.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        19,
+        "X",
+        71.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        19,
+        "Y",
+        59.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        23,
+        "X",
+        77.0,
+        "failed",
+        "failed"
+      ],
+      [
+        23,
+        "Y",
+        65.0,
+        "failed",
+        "failed"
+      ],
+      [
+        24,
+        "X",
+        82.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        24,
+        "Y",
+        66.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        27,
+        "X",
+        79.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        27,
+        "Y",
+        68.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        31,
+        "X",
+        70.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        31,
+        "Y",
+        62.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        32,
+        "X",
+        34.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        36,
+        "X",
+        89.0,
+        "failed",
+        "failed"
+      ],
+      [
+        36,
+        "Y",
+        72.0,
+        "failed",
+        "failed"
+      ],
+      [
+        37,
+        "X",
+        76.0,
+        "failed",
+        "failed"
+      ],
+      [
+        37,
+        "Y",
+        66.0,
+        "failed",
+        "failed"
+      ],
+      [
+        39,
+        "X",
+        72.0,
+        "failed",
+        "failed"
+      ],
+      [
+        39,
+        "Y",
+        62.0,
+        "failed",
+        "failed"
+      ],
+      [
+        43,
+        "X",
+        71.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        43,
+        "Y",
+        60.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        46,
+        "X",
+        71.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        46,
+        "Y",
+        62.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        47,
+        "X",
+        76.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        47,
+        "Y",
+        66.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        48,
+        "X",
+        85.0,
+        "failed",
+        "failed"
+      ],
+      [
+        48,
+        "Y",
+        72.0,
+        "failed",
+        "failed"
+      ],
+      [
+        51,
+        "X",
+        78.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        51,
+        "Y",
+        70.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        77,
+        "X",
+        78.0,
+        "failed",
+        "failed"
+      ],
+      [
+        77,
+        "Y",
+        70.0,
+        "failed",
+        "failed"
+      ],
+      [
+        80,
+        "X",
+        90.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        80,
+        "Y",
+        74.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        81,
+        "X",
+        51.0,
+        "failed",
+        "failed"
+      ],
+      [
+        81,
+        "Y",
+        47.0,
+        "failed",
+        "failed"
+      ],
+      [
+        87,
+        "X",
+        32.0,
+        "failed",
+        "failed"
+      ],
+      [
+        92,
+        "X",
+        88.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        92,
+        "Y",
+        74.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        104,
+        "X",
+        93.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ],
+      [
+        104,
+        "Y",
+        77.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260507_025733_RUN481_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0002.root"
+      ]
+    ],
+    "triggering_events_2": [
+      [
+        14,
+        "X",
+        -48.2156,
+        51.7844,
+        -1280
+      ],
+      [
+        43,
+        "Y",
+        1.7844,
+        -8.2156,
+        -2509
+      ],
+      [
+        46,
+        "X",
+        1.7844,
+        -8.2156,
+        -4518
+      ],
+      [
+        47,
+        "X",
+        1.7844,
+        -8.2156,
+        4243
+      ],
+      [
+        47,
+        "Y",
+        1.7844,
+        -8.2156,
+        4233
+      ],
+      [
+        92,
+        "X",
+        1.7844,
+        -8.2156,
+        -7385
+      ]
+    ],
+    "killed_md": [
+      [
+        1,
+        "X"
+      ],
+      [
+        23,
+        "X"
+      ],
+      [
+        23,
+        "Y"
+      ],
+      [
+        36,
+        "X"
+      ],
+      [
+        36,
+        "Y"
+      ],
+      [
+        37,
+        "X"
+      ],
+      [
+        37,
+        "Y"
+      ],
+      [
+        39,
+        "X"
+      ],
+      [
+        39,
+        "Y"
+      ],
+      [
+        48,
+        "X"
+      ],
+      [
+        48,
+        "Y"
+      ],
+      [
+        77,
+        "X"
+      ],
+      [
+        77,
+        "Y"
+      ],
+      [
+        81,
+        "X"
+      ],
+      [
+        81,
+        "Y"
+      ],
+      [
+        87,
+        "X"
+      ]
+    ],
+    "killed Tquiet": [
+      [
+        7,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        7,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        11,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        11,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        14,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        15,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        15,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        19,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        19,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        24,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        24,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        27,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        27,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        31,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        31,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        32,
+        "X",
+        "Idx100"
+      ],
+      [
+        43,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        46,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        51,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        51,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        80,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        80,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        92,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        104,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        104,
+        "Y",
+        "Not Tquiet"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      106362,
+      5626.0,
+      8.8,
+      80.46,
+      342.54,
+      4711.7002,
+      -9469.1299,
+      0.0,
+      0,
+      1777899321.9062388
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106363,
+      5626.0,
+      8.13,
+      72.61,
+      76.21,
+      653.3,
+      -6493.3799,
+      0.0,
+      0,
+      1779006859.7826514
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106364,
+      5626.0,
+      8.63,
+      84.35,
+      70.72,
+      -3077.3999,
+      2923.79,
+      0.0,
+      0,
+      1778361852.6423855
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106365,
+      5626.0,
+      8.51,
+      71.72,
+      300.26,
+      4530.4502,
+      -434.16,
+      0.0,
+      0,
+      1777894803.1078737
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106366,
+      5626.0,
+      8.86,
+      66.64,
+      304.85,
+      -4067.46,
+      -1251.71,
+      0.0,
+      0,
+      1778622955.8916326
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106367,
+      5626.0,
+      8.04,
+      66.52,
+      267.85,
+      671.51,
+      -718.51,
+      0.0,
+      0,
+      1779863704.0968206
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106368,
+      5626.0,
+      8.86,
+      79.93,
+      188.56,
+      338.64,
+      -7430.4702,
+      0.0,
+      0,
+      1778475764.985521
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106369,
+      5626.0,
+      8.51,
+      75.71,
+      138.67,
+      1633.75,
+      -592.86,
+      0.0,
+      1,
+      1779635085.927487
+    ],
+    "triggering_events": [
+      [
+        0,
+        "X",
+        33.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        0,
+        "Y",
+        35.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        4,
+        "X",
+        55.0,
+        "failed",
+        "failed"
+      ],
+      [
+        4,
+        "Y",
+        65.0,
+        "failed",
+        "failed"
+      ],
+      [
+        6,
+        "X",
+        58.0,
+        "failed",
+        "failed"
+      ],
+      [
+        6,
+        "Y",
+        66.0,
+        "failed",
+        "failed"
+      ],
+      [
+        7,
+        "X",
+        40.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        7,
+        "Y",
+        43.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        10,
+        "X",
+        56.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        10,
+        "Y",
+        65.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        12,
+        "X",
+        49.0,
+        "failed",
+        "failed"
+      ],
+      [
+        12,
+        "Y",
+        59.0,
+        "failed",
+        "failed"
+      ],
+      [
+        14,
+        "X",
+        52.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        14,
+        "Y",
+        58.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        17,
+        "X",
+        54.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        17,
+        "Y",
+        63.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        18,
+        "X",
+        57.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        18,
+        "Y",
+        64.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        25,
+        "X",
+        48.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        25,
+        "Y",
+        57.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        26,
+        "X",
+        52.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        26,
+        "Y",
+        60.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        27,
+        "X",
+        37.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        27,
+        "Y",
+        43.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        33,
+        "X",
+        50.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        33,
+        "Y",
+        59.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        38,
+        "X",
+        41.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        38,
+        "Y",
+        48.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260524_144612_RUN492_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-cw-CT-60-40ADC-0008.root"
+      ],
+      [
+        49,
+        "X",
+        49.0,
+        "failed",
+        "failed"
+      ],
+      [
+        49,
+        "Y",
+        59.0,
+        "failed",
+        "failed"
+      ],
+      [
+        53,
+        "X",
+        39.0,
+        "failed",
+        "failed"
+      ],
+      [
+        53,
+        "Y",
+        43.0,
+        "failed",
+        "failed"
+      ]
+    ],
+    "triggering_events_2": [
+      [
+        10,
+        "Y",
+        -4.0725,
+        5.9275,
+        -5713
+      ],
+      [
+        18,
+        "X",
+        -4.0725,
+        5.9275,
+        -3879
+      ],
+      [
+        18,
+        "Y",
+        -4.0725,
+        5.9275,
+        -3879
+      ]
+    ],
+    "killed_md": [
+      [
+        4,
+        "X"
+      ],
+      [
+        4,
+        "Y"
+      ],
+      [
+        6,
+        "X"
+      ],
+      [
+        6,
+        "Y"
+      ],
+      [
+        12,
+        "X"
+      ],
+      [
+        12,
+        "Y"
+      ],
+      [
+        49,
+        "X"
+      ],
+      [
+        49,
+        "Y"
+      ],
+      [
+        53,
+        "X"
+      ],
+      [
+        53,
+        "Y"
+      ]
+    ],
+    "killed Tquiet": [
+      [
+        0,
+        "X",
+        "No T1"
+      ],
+      [
+        0,
+        "Y",
+        "No T1"
+      ],
+      [
+        7,
+        "X",
+        "No T1"
+      ],
+      [
+        7,
+        "Y",
+        "No T1"
+      ],
+      [
+        10,
+        "X",
+        "No T1"
+      ],
+      [
+        14,
+        "X",
+        "No T1"
+      ],
+      [
+        14,
+        "Y",
+        "No T1"
+      ],
+      [
+        17,
+        "X",
+        "No T1"
+      ],
+      [
+        17,
+        "Y",
+        "No T1"
+      ],
+      [
+        25,
+        "X",
+        "No T1"
+      ],
+      [
+        25,
+        "Y",
+        "No T1"
+      ],
+      [
+        26,
+        "X",
+        "No T1"
+      ],
+      [
+        26,
+        "Y",
+        "No T1"
+      ],
+      [
+        27,
+        "X",
+        "No T1"
+      ],
+      [
+        27,
+        "Y",
+        "No T1"
+      ],
+      [
+        33,
+        "X",
+        "No T1"
+      ],
+      [
+        33,
+        "Y",
+        "Not Tquiet"
+      ],
+      [
+        38,
+        "X",
+        "No T1"
+      ],
+      [
+        38,
+        "Y",
+        "No T1"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      106370,
+      5626.0,
+      8.37,
+      65.11,
+      86.57,
+      171.66,
+      716.26,
+      0.0,
+      1,
+      1778082370.8306158
+    ],
+    "triggering_events": [
+      [
+        0,
+        "X",
+        58.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_142956_RUN480_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1.0-chengwei-0001.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_142956_RUN480_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1.0-chengwei-0001.root"
+      ],
+      [
+        4,
+        "X",
+        48.0,
+        "failed",
+        "failed"
+      ],
+      [
+        6,
+        "X",
+        59.0,
+        "failed",
+        "failed"
+      ],
+      [
+        10,
+        "X",
+        55.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_142956_RUN480_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1.0-chengwei-0001.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_142956_RUN480_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1.0-chengwei-0001.root"
+      ],
+      [
+        14,
+        "X",
+        56.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_142956_RUN480_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1.0-chengwei-0001.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_142956_RUN480_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1.0-chengwei-0001.root"
+      ],
+      [
+        30,
+        "X",
+        36.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_142956_RUN480_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1.0-chengwei-0001.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_142956_RUN480_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1.0-chengwei-0001.root"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [
+      [
+        4,
+        "X"
+      ],
+      [
+        6,
+        "X"
+      ]
+    ],
+    "killed Tquiet": [
+      [
+        0,
+        "X",
+        "No T1"
+      ],
+      [
+        10,
+        "X",
+        "No T1"
+      ],
+      [
+        14,
+        "X",
+        "No T1"
+      ],
+      [
+        30,
+        "X",
+        "No T1"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      106371,
+      5626.0,
+      8.57,
+      79.53,
+      64.23,
+      3198.46,
+      -614.02,
+      0.0,
+      0,
+      1779293788.0656023
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106372,
+      5626.0,
+      8.84,
+      69.81,
+      109.91,
+      -4399.2598,
+      5.59,
+      0.0,
+      0,
+      1779405285.792069
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106373,
+      5626.0,
+      8.14,
+      73.32,
+      23.96,
+      -2270.78,
+      1951.74,
+      0.0,
+      0,
+      1777676130.807813
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106374,
+      5626.0,
+      8.46,
+      82.24,
+      28.8,
+      -360.65,
+      -2065.95,
+      0.0,
+      1,
+      1778063499.1979854
+    ],
+    "triggering_events": [
+      [
+        9,
+        "Y",
+        31.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_093843_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0028.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_093843_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0028.root"
+      ],
+      [
+        13,
+        "Y",
+        31.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_093843_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0028.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_093843_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0028.root"
+      ],
+      [
+        17,
+        "Y",
+        33.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_093843_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0028.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_093843_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0028.root"
+      ],
+      [
+        25,
+        "Y",
+        33.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_093843_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0028.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_093843_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0028.root"
+      ],
+      [
+        38,
+        "Y",
+        33.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_093843_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0028.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260506_093843_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0028.root"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed Tquiet": [
+      [
+        9,
+        "Y",
+        "No T1"
+      ],
+      [
+        13,
+        "Y",
+        "No T1"
+      ],
+      [
+        17,
+        "Y",
+        "No T1"
+      ],
+      [
+        25,
+        "Y",
+        "No T1"
+      ],
+      [
+        38,
+        "Y",
+        "No T1"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      106375,
+      5626.0,
+      8.65,
+      73.42,
+      115.13,
+      -2851.4299,
+      -9897.6201,
+      0.0,
+      0,
+      1778234540.948302
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106376,
+      5626.0,
+      8.63,
+      80.28,
+      192.29,
+      -4016.48,
+      -8324.3799,
+      0.0,
+      0,
+      1779180944.1859505
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106377,
+      5626.0,
+      8.27,
+      82.44,
+      122.27,
+      -145.14,
+      2517.6201,
+      0.0,
+      0,
+      1779213811.5348916
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106378,
+      5626.0,
+      8.44,
+      68.52,
+      83.83,
+      4226.8599,
+      -8753.4102,
+      0.0,
+      0,
+      1778713002.2175808
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106379,
+      5626.0,
+      8.0,
+      72.46,
+      248.14,
+      3011.25,
+      -2769.3899,
+      0.0,
+      0,
+      1777784947.1915417
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106380,
+      5626.0,
+      8.92,
+      77.9,
+      133.07,
+      4884.75,
+      -7761.75,
+      0.0,
+      0,
+      1779745677.6834986
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106381,
+      5626.0,
+      8.66,
+      85.46,
+      240.96,
+      3506.49,
+      -2765.52,
+      0.0,
+      0,
+      1778949341.6835377
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106382,
+      5626.0,
+      8.55,
+      77.75,
+      238.7,
+      4930.5601,
+      -2385.25,
+      0.0,
+      0,
+      1777901037.775978
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106383,
+      5626.0,
+      8.31,
+      83.45,
+      170.56,
+      -3720.0901,
+      -9127.6797,
+      0.0,
+      0,
+      1778985489.1019156
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106384,
+      5626.0,
+      8.14,
+      75.38,
+      50.89,
+      -2699.77,
+      1630.8,
+      0.0,
+      0,
+      1777898298.784459
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106385,
+      5626.0,
+      8.53,
+      66.05,
+      172.13,
+      3766.7,
+      -5960.5,
+      0.0,
+      0,
+      1779758107.2609777
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106386,
+      5626.0,
+      8.4,
+      80.14,
+      188.16,
+      6497.0601,
+      -3175.25,
+      0.0,
+      0,
+      1779409925.472434
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106387,
+      5626.0,
+      8.25,
+      75.81,
+      211.0,
+      5912.0801,
+      4809.2402,
+      0.0,
+      0,
+      1778273214.649537
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106388,
+      5626.0,
+      8.82,
+      73.32,
+      95.88,
+      -1943.3199,
+      4904.7002,
+      0.0,
+      0,
+      1779350675.3518274
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106389,
+      5626.0,
+      8.59,
+      69.93,
+      34.63,
+      4094.3501,
+      -8781.5703,
+      0.0,
+      0,
+      1777722524.7910912
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106390,
+      5626.0,
+      8.09,
+      73.69,
+      270.89,
+      -3827.9299,
+      648.08,
+      0.0,
+      0,
+      1779700759.4039588
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106391,
+      5626.0,
+      8.78,
+      83.78,
+      104.98,
+      3769.97,
+      -8832.9102,
+      0.0,
+      1,
+      1778285644.49783
+    ],
+    "triggering_events": [
+      [
+        4,
+        "X",
+        41.0,
+        "failed",
+        "failed"
+      ],
+      [
+        10,
+        "X",
+        45.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        12,
+        "X",
+        54.0,
+        "failed",
+        "failed"
+      ],
+      [
+        17,
+        "X",
+        53.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        18,
+        "X",
+        55.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        21,
+        "X",
+        51.0,
+        "failed",
+        "failed"
+      ],
+      [
+        22,
+        "X",
+        54.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        25,
+        "X",
+        54.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        26,
+        "X",
+        55.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        30,
+        "X",
+        47.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        33,
+        "X",
+        54.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        34,
+        "X",
+        55.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        38,
+        "X",
+        54.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        41,
+        "X",
+        49.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        42,
+        "X",
+        52.0,
+        "failed",
+        "failed"
+      ],
+      [
+        46,
+        "X",
+        46.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        49,
+        "X",
+        55.0,
+        "failed",
+        "failed"
+      ],
+      [
+        50,
+        "X",
+        45.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        53,
+        "X",
+        53.0,
+        "failed",
+        "failed"
+      ],
+      [
+        54,
+        "X",
+        50.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        80,
+        "X",
+        45.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ],
+      [
+        90,
+        "X",
+        31.0,
+        "failed",
+        "failed"
+      ],
+      [
+        104,
+        "X",
+        32.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260508_234532_RUN483_MD_20dB-58DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-v1p0-chengwei-0008.root"
+      ]
+    ],
+    "triggering_events_2": [
+      [
+        22,
+        "X",
+        4.4978,
+        -5.5022,
+        -34189
+      ]
+    ],
+    "killed_md": [
+      [
+        4,
+        "X"
+      ],
+      [
+        12,
+        "X"
+      ],
+      [
+        21,
+        "X"
+      ],
+      [
+        42,
+        "X"
+      ],
+      [
+        49,
+        "X"
+      ],
+      [
+        53,
+        "X"
+      ],
+      [
+        90,
+        "X"
+      ]
+    ],
+    "killed Tquiet": [
+      [
+        10,
+        "X",
+        "Idx100"
+      ],
+      [
+        17,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        18,
+        "X",
+        "Idx100"
+      ],
+      [
+        25,
+        "X",
+        "No T1"
+      ],
+      [
+        26,
+        "X",
+        "No T1"
+      ],
+      [
+        30,
+        "X",
+        "No T1"
+      ],
+      [
+        33,
+        "X",
+        "Idx100"
+      ],
+      [
+        34,
+        "X",
+        "Idx100"
+      ],
+      [
+        38,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        41,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        46,
+        "X",
+        "Idx100"
+      ],
+      [
+        50,
+        "X",
+        "Idx100"
+      ],
+      [
+        54,
+        "X",
+        "No T1"
+      ],
+      [
+        80,
+        "X",
+        "Not Tquiet"
+      ],
+      [
+        104,
+        "X",
+        "Idx100"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      106392,
+      5626.0,
+      8.52,
+      66.16,
+      155.17,
+      -3442.45,
+      1716.5,
+      0.0,
+      0,
+      1780202982.053003
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106393,
+      5626.0,
+      8.2,
+      80.53,
+      308.73,
+      3029.72,
+      -5444.4102,
+      0.0,
+      0,
+      1778256017.9790812
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106394,
+      5626.0,
+      8.91,
+      65.6,
+      220.38,
+      -4308.4302,
+      -829.51,
+      0.0,
+      0,
+      1779750737.785499
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106395,
+      5626.0,
+      8.26,
+      80.79,
+      275.0,
+      -1485.99,
+      2969.25,
+      0.0,
+      0,
+      1777719367.6012056
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106396,
+      5626.0,
+      8.29,
+      66.14,
+      61.3,
+      2944.51,
+      -3321.8401,
+      0.0,
+      0,
+      1777805375.0823808
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106397,
+      5626.0,
+      8.89,
+      83.52,
+      252.81,
+      1936.35,
+      -3730.72,
+      0.0,
+      1,
+      1777990428.591216
+    ],
+    "triggering_events": [
+      [
+        25,
+        "X",
+        40.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_134513_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_134513_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        33,
+        "X",
+        56.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_134513_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_134513_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        38,
+        "X",
+        65.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_134513_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_134513_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        41,
+        "X",
+        39.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_134513_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_134513_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        49,
+        "X",
+        65.0,
+        "failed",
+        "failed"
+      ],
+      [
+        50,
+        "X",
+        56.0,
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_134513_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0017.root",
+        "/sps/grand/data/gp80/GrandRoot/2026/05/GP80_20260505_134513_RUN476_MD_20dB-50DUs-512trace-FY2Float-Normal-Wonlinefilter-new-cs-daq-chengwei-0017.root"
+      ],
+      [
+        53,
+        "X",
+        65.0,
+        "failed",
+        "failed"
+      ]
+    ],
+    "triggering_events_2": [],
+    "killed_md": [
+      [
+        49,
+        "X"
+      ],
+      [
+        53,
+        "X"
+      ]
+    ],
+    "killed Tquiet": [
+      [
+        25,
+        "X",
+        "No T1"
+      ],
+      [
+        33,
+        "X",
+        "No T1"
+      ],
+      [
+        38,
+        "X",
+        "No T1"
+      ],
+      [
+        41,
+        "X",
+        "No T1"
+      ],
+      [
+        50,
+        "X",
+        "No T1"
+      ]
+    ]
+  },
+  {
+    "fixed": [
+      1,
+      106398,
+      5626.0,
+      8.34,
+      75.76,
+      232.61,
+      -3639.1201,
+      4478.7202,
+      0.0,
+      0,
+      1778531380.7222602
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  },
+  {
+    "fixed": [
+      1,
+      106399,
+      5626.0,
+      8.04,
+      67.3,
+      248.31,
+      -2914.6101,
+      -589.22,
+      0.0,
+      0,
+      1778668410.5504303
+    ],
+    "triggering_events": [],
+    "triggering_events_2": [],
+    "killed_md": [],
+    "killed_Tquiet": []
+  }
+]

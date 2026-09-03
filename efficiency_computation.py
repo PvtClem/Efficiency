@@ -4,7 +4,7 @@ import grand.dataio.data_handling as dh
 
 import sys
 import os
-sys.path.append(os.path.abspath("/sps/grand/cprevotat/grand/grand/grand/exposure/")) # this is not very clean, but it was not to mess with Sei’s code, and not copy everything here
+#sys.path.append(os.path.abspath("/sps/grand/cprevotat/grand/grand/grand/exposure/")) # this is not very clean, but it was not to mess with Sei’s code, and not copy everything here
 from utils import calculate_PAO_spectrum, calculate_relative_trace_start_time, get_FLT0_trigger_parameters_du_level, get_FLT0_trigger_parameters, get_FLT0_trigger_time, notch_filter, filter_traces_bandpass, running_DUs, integrate_PAO_spectrum
 import functions
 import adapted_CausalityCut_Kwen

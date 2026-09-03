@@ -7,7 +7,7 @@ import numpy as np
 import glob
 import matplotlib.pyplot as plt
 import re
-sys.path.append(os.path.abspath("/sps/grand/cprevotat/grand/grand/grand/exposure/")) # this is not very clean, but it was not to mess with Sei’s code, and not copy everything here
+#sys.path.append(os.path.abspath("/sps/grand/cprevotat/grand/grand/grand/exposure/")) # this is not very clean, but it was not to mess with Sei’s code, and not copy everything here
 from utils import *
 sys.path.append(os.path.abspath("/sps/grand/cprevotat/grand/")) # this is not very clean, but it was not to mess with Sei’s code, and not copy everything here
 from functions import *
